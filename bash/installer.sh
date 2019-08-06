@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cp ~/src/dotfiles/bash/bashrc ~/.bashrc
+cat >> ~/.bashrc
+cat ~/src/dotfiles/bash/bashrc >> ~/.bashrc
